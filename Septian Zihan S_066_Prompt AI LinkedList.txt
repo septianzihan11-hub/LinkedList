@@ -13,5 +13,6 @@ Tipe data LinkedList
 8.    Show data (tampilkan semua data di LinkedList)
 9.    Exit"
 "nah di dalam program saya gunakan untuk menyimpan nama mahasiswa dan nimnya dengan ketentuan
-count++ harus ditambah 1 dan count-- ditambah 1"
+count++ harus ditambah 1 dan count-- dikurangi 1"
+
 "saya sudah membuat programnya coba cek apa bila ada yang salah serta berikan penjelasannya"
